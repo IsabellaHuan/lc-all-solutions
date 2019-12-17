@@ -11,6 +11,7 @@ import numpy as np
 list=[]
 np.sort(list, axis=-1, kind='quicksort', order=None)
 np.argsort(list, axis=-1, kind='quicksort', order=None)
+# 折半查找？
 
 # python的链表？
 
@@ -20,3 +21,11 @@ np.argsort(list, axis=-1, kind='quicksort', order=None)
 
 
 #python list.insert方法。。？？-6题
+
+#
+# 字符串比较
+# https://blog.csdn.net/mxiawang/article/details/84256936
+
+# 深度优先遍历 bfs
+
+#python  headq的使用【队列的使用】

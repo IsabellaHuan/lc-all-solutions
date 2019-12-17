@@ -17,3 +17,6 @@ np.argsort(list, axis=-1, kind='quicksort', order=None)
 # python 字符查找方法
 # https://juejin.im/user/5b860fcfe51d45389c0600f3/postss
 # 用正则findall
+
+
+#python list.insert方法。。？？-6题

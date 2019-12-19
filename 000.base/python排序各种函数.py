@@ -29,3 +29,4 @@ np.argsort(list, axis=-1, kind='quicksort', order=None)
 # 深度优先遍历 bfs
 
 #python  headq的使用【队列的使用】
+# dict.get(key,default_value)

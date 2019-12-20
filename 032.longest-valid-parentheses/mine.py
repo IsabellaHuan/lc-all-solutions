@@ -15,10 +15,8 @@ class Solution(object):
           if s[head]=='(':
               tail = head+1
               while tail<len(s):
-                  if ((tail-head)%2==1 and s[tail]==')'):
-                      tail +=tail+1
-                  elif (tail-head)%2==0 and s[tail]=='(':
-                      tail +=tail+1
+                  if ((tail-head)%2==1 and s[tail]==')') or ((tail-head)%2==0 and s[tail]=='('):
+                      tail +=1
                   else:
                       break
               s_len = tail - head
@@ -34,4 +32,4 @@ class Solution(object):
 
 if __name__=='__main__':
     s=Solution()
-    print s.longestValidParentheses('(()()())')
+    print s.longestValidParentheses(')()())')

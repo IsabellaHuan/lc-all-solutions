@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5db4b9f0-9374-4549-9ff8-4b49a4ba977b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/030.substring-with-concatenation-of-all-words/mine.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032.longest-valid-parentheses/mine.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/000.base/python排序各种函数.py" afterPath="$PROJECT_DIR$/000.base/python排序各种函数.py" />
-      <change beforePath="$PROJECT_DIR$/023.merge-k-sorted-lists/merge-k-sorted-lists.py" afterPath="$PROJECT_DIR$/023.-merge-k-sorted-lists/merge-k-sorted-lists.py" />
-      <change beforePath="$PROJECT_DIR$/023.merge-k-sorted-lists/question.md" afterPath="$PROJECT_DIR$/023.-merge-k-sorted-lists/question.md" />
-      <change beforePath="$PROJECT_DIR$/024.swap-nodes-in-pairs/question.md" afterPath="$PROJECT_DIR$/024.-swap-nodes-in-pairs/question.md" />
-      <change beforePath="$PROJECT_DIR$/024.swap-nodes-in-pairs/swap-nodes-in-pairs.py" afterPath="$PROJECT_DIR$/024.-swap-nodes-in-pairs/swap-nodes-in-pairs.py" />
-      <change beforePath="$PROJECT_DIR$/025.reverse-nodes-in-k-group/question.md" afterPath="$PROJECT_DIR$/025.-reverse-nodes-in-k-group/question.md" />
-      <change beforePath="$PROJECT_DIR$/025.reverse-nodes-in-k-group/reverse-nodes-in-k-group.py" afterPath="$PROJECT_DIR$/025.-reverse-nodes-in-k-group/reverse-nodes-in-k-group.py" />
-      <change beforePath="$PROJECT_DIR$/027.remove-element/question.md" afterPath="$PROJECT_DIR$/027.-remove-element/question.md" />
-      <change beforePath="$PROJECT_DIR$/027.remove-element/remove-element.py" afterPath="$PROJECT_DIR$/027.-remove-element/remove-element.py" />
-      <change beforePath="$PROJECT_DIR$/028.implement-strstr/implement-strstr.py" afterPath="$PROJECT_DIR$/028.-implement-strstr/implement-strstr.py" />
-      <change beforePath="$PROJECT_DIR$/028.implement-strstr/question.md" afterPath="$PROJECT_DIR$/028.-implement-strstr/question.md" />
-      <change beforePath="$PROJECT_DIR$/029.divide-two-integers/divide-two-integers.py" afterPath="$PROJECT_DIR$/029.-divide-two-integers/divide-two-integers.py" />
-      <change beforePath="$PROJECT_DIR$/029.divide-two-integers/question.md" afterPath="$PROJECT_DIR$/029.-divide-two-integers/question.md" />
-      <change beforePath="$PROJECT_DIR$/030.substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.py" afterPath="$PROJECT_DIR$/030.substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.py" />
-      <change beforePath="$PROJECT_DIR$/031.next-permutation/next-permutation.py" afterPath="$PROJECT_DIR$/031.-next-permutation/next-permutation.py" />
-      <change beforePath="$PROJECT_DIR$/031.next-permutation/question.md" afterPath="$PROJECT_DIR$/031.-next-permutation/question.md" />
+      <change beforePath="$PROJECT_DIR$/032.longest-valid-parentheses/mine.py" afterPath="$PROJECT_DIR$/032.longest-valid-parentheses/mine.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,21 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="longest-valid-parentheses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/032.longest-valid-parentheses/longest-valid-parentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mine.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/032.longest-valid-parentheses/mine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="128">
+              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -84,11 +57,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1480" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1508" />
     <option name="y" value="-157" />
-    <option name="width" value="1688" />
-    <option name="height" value="1057" />
+    <option name="width" value="1436" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -211,15 +184,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1480" y="-157" width="1688" height="1057" extended-state="0" />
+    <frame x="1508" y="-157" width="1436" height="877" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2272175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2682927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40537083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -360,6 +333,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/032.longest-valid-parentheses/longest-valid-parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/032.longest-valid-parentheses/question.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -368,18 +349,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/032.longest-valid-parentheses/longest-valid-parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/032.longest-valid-parentheses/mine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="128">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
           <folding />
         </state>
       </provider>
